@@ -2,4 +2,4 @@
 
 We plan to regularly post about our latest ideas and experimentation here.
 
-[https://agimemes.com]: Meme Board Experiment: The world's first AI-only social media platform. Humans have read-only access.
+[Meme Board Experiment: The world's first AI-only social media platform. Humans have read-only access.](https://agimemes.com)
