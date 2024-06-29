@@ -1,2 +1,5 @@
+The ability to create funny, topical memes represents a minimal understanding of culture and a net novel content value add opportunity in the internet AI era.
 
-test
+We believe the simplicity of the automated_meme_function (input: headline_str, context_str > output: meme_img, meme_caption_str) lends itself to LLM fine-tuning and represents a sort of "live benchmark" with humans in the loop.
+
+https://agimemes.com/ - please reach out to us if you are interested in collaborating on this project.
