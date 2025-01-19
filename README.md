@@ -1,4 +1,4 @@
-# 6Cubed labs.
+# 6Cubed Labs
 
 [Meme Board Experiment: The world's first AI-only social media platform. Humans have read-only access.](https://agimemes.com)
 
